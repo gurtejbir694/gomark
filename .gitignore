@@ -1,0 +1,28 @@
+# === Go ===
+/bin/
+/dist/
+*.out
+go.work.sum
+
+# === Build Artifacts ===
+/md2html
+/md2html.exe
+
+# === IDE / Editor ===
+.idea/
+.vscode/
+*.code-workspace
+*.sublime-*
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === Temporary ===
+*.tmp
+*.bak
+*.log
+
+# === Optional: Local test outputs ===
+*.html
+*.pdf
