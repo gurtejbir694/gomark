@@ -16,4 +16,4 @@ gomark input.md output.html
 | Embedded CSS & Template | Supported |
 | Images, Links, Tables, Blockquotes | Supported |
 | Zero runtime dependencies | Supported |
-| ==go install== -able CLI | Supported |
+| `go install` -able CLI | Supported |
