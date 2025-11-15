@@ -6,4 +6,9 @@
 
 ```bash
 gomark input.md output.html
+```
+## Features
 
+| Feature | Status |
+| ------- | ------ |
+| GitHub Flavored Markdown (GFM) | Supported |
