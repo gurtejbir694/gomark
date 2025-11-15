@@ -6,7 +6,7 @@ import (
 	"html/template"
 	"os"
 
-	"github.com/gurtejbir694/markdown-to-html/pkg/config"
+	"github.com/gurtejbir694/gomark/pkg/config"
 )
 
 //go:embed assets/template.html assets/style.css

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gurtejbir694/markdown-to-html/internal/parser"
-	"github.com/gurtejbir694/markdown-to-html/internal/renderer"
-	"github.com/gurtejbir694/markdown-to-html/pkg/config"
+	"github.com/gurtejbir694/gomark/internal/parser"
+	"github.com/gurtejbir694/gomark/internal/renderer"
+	"github.com/gurtejbir694/gomark/pkg/config"
 )
 
 func main() {

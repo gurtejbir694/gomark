@@ -1,4 +1,4 @@
-module github.com/gurtejbir694/markdown-to-html/internal/parser
+module github.com/gurtejbir694/gomark/internal/parser
 
 go 1.25.3
 
