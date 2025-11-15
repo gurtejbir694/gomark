@@ -12,3 +12,8 @@ gomark input.md output.html
 | Feature | Status |
 | ------- | ------ |
 | GitHub Flavored Markdown (GFM) | Supported |
+| Syntax Highlighting (100+ languages) | Supported |
+| Embedded CSS & Template | Supported |
+| Images, Links, Tables, Blockquotes | Supported |
+| Zero runtime dependencies | Supported |
+| ==go install==-able CLI | Supported |
